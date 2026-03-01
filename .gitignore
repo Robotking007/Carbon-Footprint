@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# ML
+ml/saved_models/
+ml/plots/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
